@@ -6,7 +6,7 @@ Main-Repository for the Nesteo-Project
 
 ## Status
 
-|[App](https://www.github.com/Nesteo/Nesteo-App|[Server](https://github.com/Nesteo/Nesteo-Server)|
+|[App](https://www.github.com/Nesteo/Nesteo-App)|[Server](https://github.com/Nesteo/Nesteo-Server)|
 |---|------|
 |[![CircleCI](https://circleci.com/gh/Nesteo/Nesteo-App.svg?style=svg)](https://circleci.com/gh/Nesteo/Nesteo-App)|[![CircleCI](https://circleci.com/gh/Nesteo/Nesteo-Server.svg?style=svg)](https://circleci.com/gh/Nesteo/Nesteo-Server)|
 
