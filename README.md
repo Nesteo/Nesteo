@@ -5,10 +5,15 @@ Main-Repository for the Nesteo-Project
 * https://github.com/Nesteo/Nesteo-Server
 
 ## Status
+### App
+![CircleCI](https://img.shields.io/circleci/build/github/Nesteo/Nesteo-App?token=ac103de9b3a2c8975aa3415c8c0febc24f5ad960)
+![GitHub issues](https://img.shields.io/github/issues-raw/Nesteo/Nesteo-App)
+![GitHub last commit](https://img.shields.io/github/last-commit/Nesteo/Nesteo-App)
 
-|[App](https://www.github.com/Nesteo/Nesteo-App)|[Server](https://github.com/Nesteo/Nesteo-Server)|
-|---|------|
-|[![CircleCI](https://circleci.com/gh/Nesteo/Nesteo-App.svg?style=svg)](https://circleci.com/gh/Nesteo/Nesteo-App)|[![CircleCI](https://circleci.com/gh/Nesteo/Nesteo-Server.svg?style=svg)](https://circleci.com/gh/Nesteo/Nesteo-Server)|
+### Server
+![CircleCI](https://img.shields.io/circleci/build/github/Nesteo/Nesteo-Server?token=3fd9be59a255b0341be392e3abcf483e0eab3b07)
+![GitHub issues](https://img.shields.io/github/issues-raw/Nesteo/Nesteo-Server)
+![GitHub last commit](https://img.shields.io/github/last-commit/Nesteo/Nesteo-Server)
 
 ## Useful Links
 
